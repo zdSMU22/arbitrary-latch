@@ -12,4 +12,4 @@ I named this project arbitray latch due to arbitray meaning without reason or pa
 ![Screenshot 2022-03-20 115953](https://user-images.githubusercontent.com/94766160/159173815-644d151f-b7b4-4a4c-8edf-3ad238800ee4.png)
 
 
-Link to the depolyed page:
+Link to the depolyed page: https://zdsmu22.github.io/arbitrary-latch/
